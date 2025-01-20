@@ -41,9 +41,9 @@ int main(){
     system("clear");
     printf("El tiempo TERMINO");
 
-    system("mpg123 /home/fedee/Cronometro/bedside-clock-alarm-95792.mp3");
+    system("mpg123 /Cronometro/bedside-clock-alarm-95792.mp3");
     
-    system("i3lock -i /home/fedee/Cronometro/Wallpaper_temporizador.png");
+    system("i3lock -i /Cronometro/Wallpaper_temporizador.png");
 
     printf("\n\n");
     return 0;
